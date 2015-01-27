@@ -25,6 +25,8 @@ forma más de percibir la realidad.
 
 ## Hablemos de VR
 
+![Timeline](/img/TimelineVR.png)
+
 * Video / Documental / Cine
 * Videojuegos / Educación
 * Instalaciones /  Recorridos / Experimentación
@@ -66,7 +68,5 @@ The experiences are more immersive, but virtual reality has the potential
 * [ScreenLab](http://screenlabseries.tumblr.com/)
 * [ISL Cube](http://isl.beckman.illinois.edu/Labs/CUBE/CUBE.html)
   </section>
-
-
 
 
