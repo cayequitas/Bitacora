@@ -33,27 +33,33 @@ forma más de percibir la realidad.
 <section markdown="block">
 	<section markdown="block">
 ## Video / Documental / Cine
+
 The experiences are more immersive, but virtual reality has the potential
  to change everything about what we call films, and how we make them. 
  				                       - Mike Mills -
 
 * [CLOUDS](http://www.cloudsdocumentary.com/)
 * [Sundance Film Festival](http://www.wired.com/2015/01/vr-filmmaking-pioneers/)
+</section>
+	<section markdown="block">
+## Videojuegos / Educación
+
+* [Elegy](http://www.wired.com/2015/01/elegy-dead-world/)
+* [Never Alone](http://neveralonegame.com/game/)
+* [Neuro Racer](http://gazzaleylab.ucsf.edu/neuroscience-projects/neuroracer/)
+* [The Rift Arcade](http://www.theriftarcade.com/oculus-rift-games/)
 	</section>
 	<section markdown="block">
-## There Are a lot of Options Out There!
+## Instalaciones /  Recorridos / Experimentación
+* [Ecstatic Computation](http://michaelpallison.com/projects/ecstaticcomputation/)
+* [MEMEX](http://www.creativeapplications.net/news/memex-duologue-3d-study-of-mortality-using-photogrammetry-techniques/)
+* [The Nail Polish Inferno](http://www.creativeapplications.net/unity-3d/virtual-reality-art-show-by-geoffrey-lillemon-random-studio/)
+* [OccultUs](http://www.creativeapplications.net/environment/occultus-by-simon-de-diesbach-designing-for-alternate-reality/)
+* [ScreenLab](http://screenlabseries.tumblr.com/)
+* [ISL Cube](http://isl.beckman.illinois.edu/Labs/CUBE/CUBE.html)
 
-...for hosting and creating sites.  For example:
 
-* [Squarespace](http://www.squarespace.com/)
-* [WordPress](https://wordpress.com/)
-* [Weebly](http://www.weebly.com/)
-* or, you know, 90's style... hand code and ftp to _your server_
-	</section>
-	<section markdown="block">
-## We're Going to Talk About Another Option...
 
-(I use it a lot; maybe it'll be useful for you too)
 	</section>
 </section>
 
