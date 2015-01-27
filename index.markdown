@@ -20,7 +20,9 @@ forma más de percibir la realidad.
 
 
 </section>
+
 <section markdown="block">
+
 ## Hablemos de VR
 
 * Video / Documental / Cine
@@ -31,7 +33,8 @@ forma más de percibir la realidad.
 </section>
 
 <section markdown="block">
-	<section markdown="block">
+
+  <section markdown="block">
 ## Video / Documental / Cine
 
 The experiences are more immersive, but virtual reality has the potential
@@ -40,9 +43,9 @@ The experiences are more immersive, but virtual reality has the potential
 
 * [CLOUDS](http://www.cloudsdocumentary.com/)
 * [Sundance Film Festival](http://www.wired.com/2015/01/vr-filmmaking-pioneers/)
-</section>
+  </section>
 
-<section markdown="block">
+  <section markdown="block">
 
 ## Videojuegos / Educación
 
@@ -50,9 +53,9 @@ The experiences are more immersive, but virtual reality has the potential
 * [Never Alone](http://neveralonegame.com/game/)
 * [Neuro Racer](http://gazzaleylab.ucsf.edu/neuroscience-projects/neuroracer/)
 * [The Rift Arcade](http://www.theriftarcade.com/oculus-rift-games/)
-</section>
+  </section>
 
-<section markdown="block">
+  <section markdown="block">
 
 ## Instalaciones /  Recorridos / Experimentación
 * [Ecstatic Computation](http://michaelpallison.com/projects/ecstaticcomputation/)
@@ -61,7 +64,7 @@ The experiences are more immersive, but virtual reality has the potential
 * [OccultUs](http://www.creativeapplications.net/environment/occultus-by-simon-de-diesbach-designing-for-alternate-reality/)
 * [ScreenLab](http://screenlabseries.tumblr.com/)
 * [ISL Cube](http://isl.beckman.illinois.edu/Labs/CUBE/CUBE.html)
-</section>
+  </section>
 
 
 </section>
