@@ -32,9 +32,10 @@ forma más de percibir la realidad.
 
 </section>
 
-<section markdown="block">
+
 
   <section markdown="block">
+  
 ## Video / Documental / Cine
 
 The experiences are more immersive, but virtual reality has the potential
@@ -67,5 +68,5 @@ The experiences are more immersive, but virtual reality has the potential
   </section>
 
 
-</section>
+
 
