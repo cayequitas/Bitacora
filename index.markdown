@@ -33,9 +33,9 @@ forma más de percibir la realidad.
 <section markdown="block">
 	<section markdown="block">
 ## Video / Documental / Cine
-"The experiences are more immersive, but virtual reality has the potential
- to change everything about what we call films, and how we make them. "
- 												       - Mike Mills -
+The experiences are more immersive, but virtual reality has the potential
+ to change everything about what we call films, and how we make them. 
+ 				                       - Mike Mills -
 
 * [CLOUDS](http://www.cloudsdocumentary.com/)
 * [Sundance Film Festival](http://www.wired.com/2015/01/vr-filmmaking-pioneers/)
