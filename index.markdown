@@ -41,15 +41,15 @@ The experiences are more immersive, but virtual reality has the potential
 * [CLOUDS](http://www.cloudsdocumentary.com/)
 * [Sundance Film Festival](http://www.wired.com/2015/01/vr-filmmaking-pioneers/)
 </section>
-	<section markdown="block">
+<section markdown="block">
 ## Videojuegos / Educación
 
 * [Elegy](http://www.wired.com/2015/01/elegy-dead-world/)
 * [Never Alone](http://neveralonegame.com/game/)
 * [Neuro Racer](http://gazzaleylab.ucsf.edu/neuroscience-projects/neuroracer/)
 * [The Rift Arcade](http://www.theriftarcade.com/oculus-rift-games/)
-	</section>
- <section markdown="block">
+</section>
+<section markdown="block">
 ## Instalaciones /  Recorridos / Experimentación
 * [Ecstatic Computation](http://michaelpallison.com/projects/ecstaticcomputation/)
 * [MEMEX](http://www.creativeapplications.net/news/memex-duologue-3d-study-of-mortality-using-photogrammetry-techniques/)
@@ -60,6 +60,6 @@ The experiences are more immersive, but virtual reality has the potential
 
 
 
-  </section>
+</section>
 </section>
 
